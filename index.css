@@ -71,5 +71,5 @@ td a:hover {
 }
 
 .table {
-	overflow-x: scroll;
+	overflow-x: auto;
 }
